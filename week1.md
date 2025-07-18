@@ -175,7 +175,7 @@ AI를 통해 내 노력과 성장 과정을 긍정적으로 되돌아보며 자�
 <details>
 <summary> 퀘스트 수행 과정 </summary>
 	
-### 퀘스트 no.1 수행 완료! (S030, J279, J279, J163)
+### 퀘스트 no.1 수행 완료! (S030, J270, J279, J163)
 <img width="702" height="682" alt="스크린샷 2025-07-18 오후 5 44 54" src="https://github.com/user-attachments/assets/b5a1d623-6559-4827-b84c-0b11cdb279bb" /><br/>
 <img width="710" height="655" alt="스크린샷 2025-07-18 오후 5 45 02" src="https://github.com/user-attachments/assets/d7ed34dc-3d9e-4689-a7b7-b2cc0575c96c" /><br/>
 
