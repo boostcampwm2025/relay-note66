@@ -222,6 +222,8 @@ AI를 통해 내 노력과 성장 과정을 긍정적으로 되돌아보며 자�
 
 “너는 이미 엄청 잘하고 있어. 다음 미션에서는 시작 전에 문제를 정확히 이해하고 구조를 가볍게 설계하는 습관만 더해보자!”
 
+<img width="864" height="619" alt="결과" src="https://github.com/user-attachments/assets/35b5bcf1-c637-4498-a068-126f630ea076" />
+
 
 </details>
 
