@@ -235,7 +235,7 @@ AI를 통해 내 노력과 성장 과정을 긍정적으로 되돌아보며 자�
 ### 퀘스트 no.2 수행 완료 ! (J279)
 <img width="564" height="89" alt="스크린샷 2025-07-25 132434" src="https://github.com/user-attachments/assets/15407971-1385-4288-b458-2b1dd7351a0b" />
 <img width="1050" height="700" alt="스크린샷 2025-07-25 132506" src="https://github.com/user-attachments/assets/6c9ab050-59fc-41ab-bb7d-459ea001b8fc" />
-![KakaoTalk_20250725_131854318](https://github.com/user-attachments/assets/c84dff66-9d88-45eb-bfbe-4d3df7b138f1)
+<img width="578" height="570" alt="스크린샷 2025-07-25 133249" src="https://github.com/user-attachments/assets/ff5e99c5-8401-44d0-bd2b-429798e84f23" />
 
 
 
