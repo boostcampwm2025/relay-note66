@@ -224,6 +224,18 @@ AI를 통해 내 노력과 성장 과정을 긍정적으로 되돌아보며 자�
 
 <img width="864" height="619" alt="결과" src="https://github.com/user-attachments/assets/35b5bcf1-c637-4498-a068-126f630ea076" />
 
+---
+
+### 퀘스트 no.2 수행 완료! (S030)
+
+<img width="796" height="365" alt="스크린샷 2025-07-25 오후 12 19 22" src="https://github.com/user-attachments/assets/496bf705-c3eb-4d8a-b147-0fb2334a9054" />
+
+---
+
+
+
+
+
 
 </details>
 
