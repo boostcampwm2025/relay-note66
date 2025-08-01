@@ -34,8 +34,32 @@
 
 <details>
  <summary>조사하기</summary>  
-- 조사하기 시간의 목표   
-- 주제만 잡아둔 퀘스트와 관련된 활용 경험을 조사하고 퀘스트 구체화하기  
+ 
+ - 조사하기 시간의 목표
+ - 주제만 잡아둔 퀘스트와 관련된 활용 경험을 조사하고 퀘스트 구체화하기
+
+출처
+
+- 성능 비교 관련 링크
+    - [https://marcus-story.tistory.com/127](https://marcus-story.tistory.com/127)
+    - [https://digitalbourgeois.tistory.com/904](https://digitalbourgeois.tistory.com/904)
+- 신규 모델에 관한 뉴스
+    - [https://kostec.re.kr/policy_trends/view/id/38252](https://kostec.re.kr/policy_trends/view/id/38252)
+    - [https://www.digitaltoday.co.kr/news/articleView.html?idxno=578875](https://www.digitaltoday.co.kr/news/articleView.html?idxno=578875)
+- 프롬프트 사용 관련 정보
+   - [https://brunch.co.kr/@dragonattack/23](https://brunch.co.kr/@dragonattack/23)
+   - [https://www.magicaiprompts.com/docs/prompt-engineering/04-2024-prompt-engineering-techniques-chatgpt-guide/](https://www.magicaiprompts.com/docs/prompt-engineering/04-2024-prompt-engineering-techniques-chatgpt-guide/)
+ 
+</details>
+
+<details>
+ <summary>AI활용 과정에서 떠올리면 좋은 추천 고민</summary>
+ 
+- “내가 AI와 주고받는 대화가 나의 학습 성장을 돕고 있는가?”
+- “지금의 이 AI 활용 방식, 나중에 실무에서도 쓸 수 있을까?”
+- "AI를 전문 분야뿐 아니라 일상생활에도 어떻게 접목할 것인가?"
+- "AI에 대체되는 것이 아니라 AI를 잘 활용할 줄 아는 능력을 기르기 위해 어떤 능력이 필요한가?"
+  
 </details>
 
 ## 퀘스트
@@ -335,14 +359,5 @@ index 구조는 path와 sha가 연결된 정도만 알고 있어.
 6. **이 실험을 통해 얻은 AI 활용 인사이트**
 
 이 미션을 통해 참가자들은 **이론적 벤치마크를 넘어선 실제 사용 경험**을 바탕으로 AI 모델의 특성을 이해하고, **개인의 사용 목적에 맞는 AI 선택 능력**을 함양하기를 기대합니다.
-
-### 출처
-
-- 성능 비교 관련 링크
-    - [https://marcus-story.tistory.com/127](https://marcus-story.tistory.com/127)
-    - [https://digitalbourgeois.tistory.com/904](https://digitalbourgeois.tistory.com/904)
-- 신규 모델에 관한 뉴스
-    - [https://kostec.re.kr/policy_trends/view/id/38252](https://kostec.re.kr/policy_trends/view/id/38252)
-    - [https://www.digitaltoday.co.kr/news/articleView.html?idxno=578875](https://www.digitaltoday.co.kr/news/articleView.html?idxno=578875)
 
 </details>
