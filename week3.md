@@ -50,7 +50,9 @@
 "커뮤니티, 학습과 성장"이라는 릴레이 프로젝트의 주제에 맞게  
 
 <details>
- <summary><strong>🧠 2. AI와의 협업 퀘스트</strong></summary>
+ <summary><strong>퀘스트 2</strong></summary>
+ 
+### **🧠 AI와의 협업 퀘스트**
 
 #### **📌 배경 (Background)**
 
