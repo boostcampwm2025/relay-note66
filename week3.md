@@ -46,6 +46,9 @@
 - 형식은 자유 (짧은 회고, 인상 깊었던 활용 경험, 깨달은 점 등)
 - 릴레이 프로젝트를 하며 깨달은 느낀점을 자유롭게 공유  
 
+<details>
+ <summary><strong>퀘스트 1</strong></summary>
+ 
 ### 1. AI와 함께 하는 도전골든벨🔔
 AI에게 10개의 퀴즈를 받아 풀어보기
 
@@ -64,7 +67,9 @@ AI와 함께 학습 내용을 점검하고 확실히 내 것으로 만들면서 
 4. 틀린 문제는 정리하여 AI에게 재점검 받는다
 
 #### ✅달성 기준
-- 캡쳐하여 week3에 공유하기 
+- 캡쳐하여 week3에 공유하기
+
+</details>
 
 <details>
  <summary><strong>퀘스트 2</strong></summary>
@@ -194,6 +199,9 @@ index 구조는 path와 sha가 연결된 정도만 알고 있어.
 
 </details>
 
+<details>
+ <summary><strong>퀘스트 3</strong></summary>
+ 
 ### 3. 🎯프롬프트 잘 쓰는 법 연습해보기  
 #### ✅ 목표
 - 단순히 질문하는 데 그치지 않고, 내가 원하는 정보를 더 정확하고 효율적으로 얻기 위한 프롬프트 작성법을 실험해본다.
@@ -214,8 +222,13 @@ index 구조는 path와 sha가 연결된 정도만 알고 있어.
 #### 🏁 퀘스트 완료 조건
 - 최소 3개 이상의 프롬프트 실험을 진행하고, 가장 효과적이었던 방식과 그 이유를 정리  
 - 유용했던 프롬프트 작성 팁 또는 자신만의 규칙 정리 (예: 질문에 조건을 넣는다 / 배경 정보를 먼저 설명한다 등)  
-- 실험 결과와 느낀 점을 슬랙 또는 문서 형태로 공유  
+- 실험 결과와 느낀 점을 슬랙 또는 문서 형태로 공유
 
+</details>
+
+<details>
+ <summary><strong>퀘스트 4</strong></summary>
+ 
 ## **4. AI 모델 비교 분석 미션**
 
 #### 1. 주요 AI 모델 현황
@@ -332,3 +345,4 @@ index 구조는 path와 sha가 연결된 정도만 알고 있어.
     - [https://kostec.re.kr/policy_trends/view/id/38252](https://kostec.re.kr/policy_trends/view/id/38252)
     - [https://www.digitaltoday.co.kr/news/articleView.html?idxno=578875](https://www.digitaltoday.co.kr/news/articleView.html?idxno=578875)
 
+</details>
